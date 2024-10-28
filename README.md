@@ -1,2 +1,2 @@
 # Mini-DBMS
-hsopital ligin page with its registration form
+hospital login page with its registration form
